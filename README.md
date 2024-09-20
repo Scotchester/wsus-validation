@@ -9,7 +9,7 @@ Presented at [Wagtail Space US 2024](https://us.wagtail.space/) by Scott Cranfil
 
 ## Video
 
-_Link to be added when available._
+[View on YouTube](https://www.youtube.com/watch?v=UVBHciwpgKM)
 
 
 ## Slides
